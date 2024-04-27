@@ -1,0 +1,59 @@
+{
+  "teams": [
+    {
+      "team_name": "BU Lakers",
+      "players": [
+        {
+          "name": "Obi",
+          "position": "Point Guard",
+          "goals": 12,
+          "assists": 6,
+          "speed": 85,
+          "accuracy": 75,
+          "strength": 70,
+          "overall": 0
+        },
+
+        {
+          "name": "Kona",
+          "position": "Small Forward",
+          "goals": 8,
+          "assists": 10,
+          "speed": 78,
+          "accuracy": 82,
+          "strength": 65,
+          "overall": 0
+        },
+        {
+          "name": "Kenny",
+          "position": "Power Forward",
+          "goals": 2,
+          "assists": 3,
+          "speed": 72,
+          "accuracy": 65,
+          "strength": 80,
+          "overall": 0
+        },
+        {
+          "name": "Terminator",
+          "position": "Shooting Guard",
+          "saves": 25,
+          "speed": 60,
+          "accuracy": 70,
+          "strength": 75,
+          "overall": 0
+        },
+        {
+          "name": "Lebron",
+          "position": "Forward",
+          "goals": 10,
+          "assists": 8,
+          "speed": 88,
+          "accuracy": 78,
+          "strength": 68,
+          "overall": 0
+        }
+      ]
+    }
+  ]
+}

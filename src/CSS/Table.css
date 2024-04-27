@@ -1,0 +1,64 @@
+#league-table {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  padding: 3vmin;
+  font-size: 2.2vmin;
+}
+thead,
+tbody {
+  width: 100%;
+}
+.lg {
+  text-align: center;
+  padding-top: 3vmin;
+}
+tr {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  background-color: whitesmoke;
+}
+td,
+th {
+  height: 7vmin;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  border: 1px solid black;
+  padding: 1vmin;
+}
+.th {
+  border: 1px solid black;
+  width: 100%;
+}
+tbody tr:last-child {
+  background-color: red;
+  color: white;
+}
+tbody tr:nth-last-child(2) {
+  background-color: yellow;
+}
+
+tbody tr:nth-child(2) {
+  background-color: greenyellow;
+}
+
+tbody tr:nth-child(1) {
+  background-color: green;
+  color: white;
+}
+
+.fixtures {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid black;
+}

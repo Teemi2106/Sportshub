@@ -1,0 +1,40 @@
+{
+  "teams": [
+    {
+      "team_name": "Thunder Strikers",
+      "points": 21,
+      "goals_scored": 25,
+      "goals_conceded": 15,
+      "wins": 7,
+      "draws": 0,
+      "losses": 2
+    },
+    {
+      "team_name": "Blaze United",
+      "points": 18,
+      "goals_scored": 20,
+      "goals_conceded": 12,
+      "wins": 6,
+      "draws": 0,
+      "losses": 3
+    },
+    {
+      "team_name": "Frost Guardians",
+      "points": 15,
+      "goals_scored": 18,
+      "goals_conceded": 20,
+      "wins": 5,
+      "draws": 0,
+      "losses": 4
+    },
+    {
+      "team_name": "Galaxy Jets",
+      "points": 12,
+      "goals_scored": 16,
+      "goals_conceded": 22,
+      "wins": 8,
+      "draws": 0,
+      "losses": 5
+    }
+  ]
+}

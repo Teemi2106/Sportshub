@@ -1,0 +1,457 @@
+{
+  "teams": [
+    {
+      "team_name": "Real Madrid",
+      "players": [
+        {
+          "name": "Greenwood Tochukwu",
+          "position": "Forward",
+          "goals": 12,
+          "assists": 6,
+          "speed": 85,
+          "accuracy": 75,
+          "strength": 70,
+          "overall": 0
+        },
+
+        {
+          "name": "Brendan",
+          "position": "Midfielder",
+          "goals": 8,
+          "assists": 10,
+          "speed": 78,
+          "accuracy": 82,
+          "strength": 65,
+          "overall": 0
+        },
+        {
+          "name": "Omooba",
+          "position": "Defender",
+          "goals": 2,
+          "assists": 3,
+          "speed": 72,
+          "accuracy": 65,
+          "strength": 80,
+          "overall": 0
+        },
+        {
+          "name": "Eben",
+          "position": "Goalkeeper",
+          "saves": 25,
+          "speed": 60,
+          "accuracy": 70,
+          "strength": 75,
+          "overall": 0
+        },
+        {
+          "name": "Eyo Victor",
+          "position": "Forward",
+          "goals": 10,
+          "assists": 8,
+          "speed": 88,
+          "accuracy": 78,
+          "strength": 68,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer1",
+          "position": "Midfielder",
+          "goals": 5,
+          "assists": 3,
+          "speed": 79,
+          "accuracy": 77,
+          "strength": 72,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer2",
+          "position": "Defender",
+          "goals": 1,
+          "assists": 2,
+          "speed": 73,
+          "accuracy": 68,
+          "strength": 75,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer3",
+          "position": "Midfielder",
+          "goals": 3,
+          "assists": 1,
+          "speed": 68,
+          "accuracy": 74,
+          "strength": 71,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer4",
+          "position": "Defender",
+          "goals": 0,
+          "assists": 0,
+          "speed": 65,
+          "accuracy": 63,
+          "strength": 77,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer5",
+          "position": "Forward",
+          "goals": 4,
+          "assists": 2,
+          "speed": 82,
+          "accuracy": 80,
+          "strength": 69,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer6",
+          "position": "Goalkeeper",
+          "saves": 20,
+          "speed": 63,
+          "accuracy": 69,
+          "strength": 73,
+          "overall": 0
+        }
+      ]
+    },
+    {
+      "team_name": "Blaze United",
+      "players": [
+        {
+          "name": "Frank Blaze",
+          "position": "Forward",
+          "goals": 15,
+          "assists": 5,
+          "speed": 82,
+          "accuracy": 77,
+          "strength": 72,
+          "overall": 0
+        },
+        {
+          "name": "Gina Firestorm",
+          "position": "Midfielder",
+          "goals": 6,
+          "assists": 12,
+          "speed": 80,
+          "accuracy": 85,
+          "strength": 60,
+          "overall": 0
+        },
+        {
+          "name": "Harry Inferno",
+          "position": "Defender",
+          "goals": 1,
+          "assists": 4,
+          "speed": 75,
+          "accuracy": 68,
+          "strength": 78,
+          "overall": 0
+        },
+        {
+          "name": "Ivy Blazeheart",
+          "position": "Goalkeeper",
+          "saves": 30,
+          "speed": 65,
+          "accuracy": 75,
+          "strength": 80,
+          "overall": 0
+        },
+        {
+          "name": "Jack Wildfire",
+          "position": "Forward",
+          "goals": 9,
+          "assists": 7,
+          "speed": 86,
+          "accuracy": 80,
+          "strength": 65,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer1",
+          "position": "Midfielder",
+          "goals": 5,
+          "assists": 3,
+          "speed": 79,
+          "accuracy": 77,
+          "strength": 72,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer2",
+          "position": "Defender",
+          "goals": 1,
+          "assists": 2,
+          "speed": 73,
+          "accuracy": 68,
+          "strength": 75,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer3",
+          "position": "Midfielder",
+          "goals": 3,
+          "assists": 1,
+          "speed": 68,
+          "accuracy": 74,
+          "strength": 71,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer4",
+          "position": "Defender",
+          "goals": 0,
+          "assists": 0,
+          "speed": 65,
+          "accuracy": 63,
+          "strength": 77,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer5",
+          "position": "Forward",
+          "goals": 4,
+          "assists": 2,
+          "speed": 82,
+          "accuracy": 80,
+          "strength": 69,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer6",
+          "position": "Goalkeeper",
+          "saves": 20,
+          "speed": 63,
+          "accuracy": 69,
+          "strength": 73,
+          "overall": 0
+        }
+      ]
+    },
+    {
+      "team_name": "Frost Guardians",
+      "players": [
+        {
+          "name": "Oliver Frostbite",
+          "position": "Forward",
+          "goals": 10,
+          "assists": 8,
+          "speed": 80,
+          "accuracy": 75,
+          "strength": 68,
+          "overall": 0
+        },
+        {
+          "name": "Penelope Icewind",
+          "position": "Midfielder",
+          "goals": 7,
+          "assists": 10,
+          "speed": 75,
+          "accuracy": 82,
+          "strength": 62,
+          "overall": 0
+        },
+        {
+          "name": "Quinn Snowstorm",
+          "position": "Defender",
+          "goals": 3,
+          "assists": 5,
+          "speed": 70,
+          "accuracy": 68,
+          "strength": 75,
+          "overall": 0
+        },
+        {
+          "name": "Riley Frostshield",
+          "position": "Goalkeeper",
+          "saves": 28,
+          "speed": 62,
+          "accuracy": 72,
+          "strength": 77,
+          "overall": 0
+        },
+        {
+          "name": "Samantha Icicle",
+          "position": "Forward",
+          "goals": 8,
+          "assists": 6,
+          "speed": 84,
+          "accuracy": 78,
+          "strength": 70,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer1",
+          "position": "Midfielder",
+          "goals": 5,
+          "assists": 3,
+          "speed": 79,
+          "accuracy": 77,
+          "strength": 72,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer2",
+          "position": "Defender",
+          "goals": 1,
+          "assists": 2,
+          "speed": 73,
+          "accuracy": 68,
+          "strength": 75,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer3",
+          "position": "Midfielder",
+          "goals": 3,
+          "assists": 1,
+          "speed": 68,
+          "accuracy": 74,
+          "strength": 71,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer4",
+          "position": "Defender",
+          "goals": 0,
+          "assists": 0,
+          "speed": 65,
+          "accuracy": 63,
+          "strength": 77,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer5",
+          "position": "Forward",
+          "goals": 4,
+          "assists": 2,
+          "speed": 82,
+          "accuracy": 80,
+          "strength": 69,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer6",
+          "position": "Goalkeeper",
+          "saves": 20,
+          "speed": 63,
+          "accuracy": 69,
+          "strength": 73,
+          "overall": 0
+        }
+      ]
+    },
+    {
+      "team_name": "Galaxy Jets",
+      "players": [
+        {
+          "name": "Tyler Starcruiser",
+          "position": "Forward",
+          "goals": 13,
+          "assists": 7,
+          "speed": 88,
+          "accuracy": 80,
+          "strength": 70,
+          "overall": 0
+        },
+        {
+          "name": "Ursula Nebula",
+          "position": "Midfielder",
+          "goals": 9,
+          "assists": 11,
+          "speed": 85,
+          "accuracy": 83,
+          "strength": 65,
+          "overall": 0
+        },
+        {
+          "name": "Vince Galaxygazer",
+          "position": "Defender",
+          "goals": 2,
+          "assists": 4,
+          "speed": 78,
+          "accuracy": 70,
+          "strength": 75,
+          "overall": 0
+        },
+        {
+          "name": "Wendy Starlight",
+          "position": "Goalkeeper",
+          "saves": 27,
+          "speed": 68,
+          "accuracy": 75,
+          "strength": 78,
+          "overall": 0
+        },
+        {
+          "name": "Xander Solarflare",
+          "position": "Forward",
+          "goals": 11,
+          "assists": 9,
+          "speed": 90,
+          "accuracy": 82,
+          "strength": 68,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer1",
+          "position": "Midfielder",
+          "goals": 5,
+          "assists": 3,
+          "speed": 79,
+          "accuracy": 77,
+          "strength": 72,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer2",
+          "position": "Defender",
+          "goals": 1,
+          "assists": 2,
+          "speed": 73,
+          "accuracy": 68,
+          "strength": 75,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer3",
+          "position": "Midfielder",
+          "goals": 3,
+          "assists": 1,
+          "speed": 68,
+          "accuracy": 74,
+          "strength": 71,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer4",
+          "position": "Defender",
+          "goals": 0,
+          "assists": 0,
+          "speed": 65,
+          "accuracy": 63,
+          "strength": 77,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer5",
+          "position": "Forward",
+          "goals": 4,
+          "assists": 2,
+          "speed": 82,
+          "accuracy": 80,
+          "strength": 69,
+          "overall": 0
+        },
+        {
+          "name": "NewPlayer6",
+          "position": "Goalkeeper",
+          "saves": 20,
+          "speed": 63,
+          "accuracy": 69,
+          "strength": 73,
+          "overall": 0
+        }
+      ]
+    }
+  ]
+}

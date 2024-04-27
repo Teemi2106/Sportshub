@@ -1,0 +1,20 @@
+.sportsbtn {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 4vmin;
+  padding-top: 5vmin;
+}
+.sportsbtn button {
+  padding: 0.5vmin 1vmin;
+  border: 2px solid orangered;
+  background-color: white;
+  border-radius: 20px;
+  transition: 0.2s;
+}
+
+.sportsbtn button:hover {
+  background-color: orangered;
+  color: white;
+}

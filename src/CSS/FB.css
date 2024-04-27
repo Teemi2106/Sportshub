@@ -1,0 +1,124 @@
+.banner {
+  text-align: center;
+  padding: 3vmin;
+  font-size: 6vmin;
+  background-color: gold;
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+    rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+    rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px,
+    rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.main {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3vmin;
+  align-items: flex-start;
+  min-height: 60vh;
+  overflow-y: scroll;
+  border: 2px solid orangered;
+  margin: 2vmin;
+}
+#showcase {
+  height: fit-content;
+}
+
+#teams {
+  height: 50vh;
+  overflow: auto;
+  scrollbar-color: orangered transparent;
+}
+
+#showcase {
+  width: 60%;
+  height: fit-content;
+  overflow: scroll;
+  scrollbar-color: orangered transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.teamCard {
+  text-align: center;
+  min-width: 40%;
+  text-align: center;
+  padding: 0 2vmin;
+}
+
+/* #teams {
+  margin-top: 5vmin;
+  height: 50vh;
+  overflow-y: scroll;
+  border: 2px solid red;
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  gap: 3vmin;
+  width: 40vw;
+  scroll-snap-type: x mandatory;
+  scroll-snap-align: start;
+}
+
+
+.teamCard {
+  font-size: 3vmin;
+  height: 100%;
+  overflow-y: auto;
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 3vmin;
+  min-width: fit-content;
+  scroll-snap-align: start;
+} */
+
+.secondDiv {
+  margin-top: 3vmin;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2vmin;
+  text-align: center;
+}
+
+.secondDiv:hover {
+  border: 1px solid rebeccapurple;
+  border-radius: 10px;
+}
+
+.teamName {
+  color: rebeccapurple;
+  cursor: pointer;
+}
+
+.playerName,
+.position,
+.overall {
+  cursor: pointer;
+  width: 33%;
+  text-align: center;
+}
+
+.playerName:hover,
+.position:hover,
+.overall:hover {
+  color: rebeccapurple;
+}
+
+.root h1,
+.root h2 {
+  text-align: center;
+}
+.root {
+  background-color: beige;
+}
