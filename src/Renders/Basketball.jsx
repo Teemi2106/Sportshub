@@ -29,21 +29,27 @@ const Basketball = () => {
       showcase.innerHTML = `<h2>
       <br />${player.name}</h2>
       <p>Position: ${player.position || "None"}</p>
-      <p>Goals: ${player.goals || "None"}</p>
+      <p>Points: ${player.points || "None"}</p>
       <p>Assists: ${player.assists || "None"}</p>
-      <p>Speed: ${player.speed || "None"}</p>
-      <p>Accuracy: ${player.accuracy || "None"}</p>
-      <p>Strenght: ${player.strength || "None"}</p>
+      <p>Rebounds: ${player.rebounds || "None"}</p>
+      <p>Steals: ${player.steals || "None"}</p>
+      <p>Blocks: ${player.Blocks || "None"}</p>
+      <p>Field Goal Percentage: ${player.field_goal_percentage || "None"}</p>
+      <p>Tree Point Percentage: ${player.three_point_percentage || "None"}</p>
+      <p>Free  Percentage: ${player.free_throw_percentage || "None"}</p>
       <p className="overall">
       Overall: 
-                  ${Math.floor(
-                    (player.speed + player.accuracy + player.strength) / 3
-                  )}
+                  ${player.overall}
                 </p>`;
     } else {
       console.error(`Player ${playerName} not found`);
     }
   };
+  const handleShowFormation = (formationUrl) => {
+    const formationSection = document.getElementById("formation");
+    formationSection.innerHTML = `<img src=${formationUrl} alt="Team Formation" />`;
+  };
+
   return (
     <div className="root">
       <h1>Basketball</h1>
@@ -53,7 +59,13 @@ const Basketball = () => {
         <section id="teams">
           {teams.map((team, index) => (
             <div key={index} className="teamCard" id="teamCard">
-              <h2 className="teamName">{team.team_name}</h2>
+              <h2
+                className="teamName"
+                onClick={() => handleShowFormation(team.formation)}
+              >
+                {team.team_name}
+              </h2>
+
               {team.players.map((player, playerIndex) => (
                 <div
                   key={playerIndex}
@@ -67,6 +79,9 @@ const Basketball = () => {
             </div>
           ))}
         </section>
+      </section>
+      <section id="formation">
+        <h2>Formation</h2>
       </section>
     </div>
   );

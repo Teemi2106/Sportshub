@@ -43,6 +43,10 @@ const Football = () => {
       console.error(`Player ${playerName} not found`);
     }
   };
+  const handleShowFormation = (formationUrl) => {
+    const formationSection = document.getElementById("formation");
+    formationSection.innerHTML = `<img src=${formationUrl} alt="Team Formation" />`;
+  };
 
   return (
     <div className="root">
@@ -53,7 +57,13 @@ const Football = () => {
         <section id="teams">
           {teams.map((team, index) => (
             <div key={index} className="teamCard" id="teamCard">
-              <h2 className="teamName">{team.team_name}</h2>
+              <h2
+                className="teamName"
+                onClick={() => handleShowFormation(team.formation)}
+              >
+                {team.team_name}
+              </h2>
+
               {team.players.map((player, playerIndex) => (
                 <div
                   key={playerIndex}
@@ -67,6 +77,9 @@ const Football = () => {
             </div>
           ))}
         </section>
+      </section>
+      <section id="formation">
+        <h2>Formation</h2>
       </section>
     </div>
   );

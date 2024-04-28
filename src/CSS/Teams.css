@@ -12,6 +12,7 @@
   background-color: white;
   border-radius: 20px;
   transition: 0.2s;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset;
 }
 
 .sportsbtn button:hover {

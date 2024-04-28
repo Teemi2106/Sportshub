@@ -1,57 +1,422 @@
 {
   "teams": [
     {
-      "team_name": "BU Lakers",
+      "team_name": "Los Angeles Lakers",
       "players": [
         {
-          "name": "Obi",
-          "position": "Point Guard",
-          "goals": 12,
-          "assists": 6,
-          "speed": 85,
-          "accuracy": 75,
-          "strength": 70,
-          "overall": 0
-        },
-
-        {
-          "name": "Kona",
+          "name": "LeBron James",
           "position": "Small Forward",
-          "goals": 8,
-          "assists": 10,
-          "speed": 78,
-          "accuracy": 82,
-          "strength": 65,
-          "overall": 0
+          "points": 25,
+          "rebounds": 8,
+          "assists": 7,
+          "steals": 2,
+          "blocks": 1,
+          "field_goal_percentage": 55,
+          "three_point_percentage": 38,
+          "free_throw_percentage": 75,
+          "overall": 89
         },
         {
-          "name": "Kenny",
+          "name": "Anthony Davis",
           "position": "Power Forward",
-          "goals": 2,
+          "points": 22,
+          "rebounds": 10,
           "assists": 3,
-          "speed": 72,
-          "accuracy": 65,
-          "strength": 80,
-          "overall": 0
+          "steals": 1,
+          "blocks": 2,
+          "field_goal_percentage": 52,
+          "three_point_percentage": 33,
+          "free_throw_percentage": 82,
+          "overall": 85
         },
         {
-          "name": "Terminator",
+          "name": "Russell Westbrook",
+          "position": "Point Guard",
+          "points": 20,
+          "rebounds": 6,
+          "assists": 10,
+          "steals": 2,
+          "blocks": 0,
+          "field_goal_percentage": 45,
+          "three_point_percentage": 31,
+          "free_throw_percentage": 72,
+          "overall": 81
+        },
+        {
+          "name": "Carmelo Anthony",
+          "position": "Power Forward",
+          "points": 15,
+          "rebounds": 4,
+          "assists": 2,
+          "steals": 1,
+          "blocks": 0,
+          "field_goal_percentage": 47,
+          "three_point_percentage": 40,
+          "free_throw_percentage": 85,
+          "overall": 78
+        },
+        {
+          "name": "Dwight Howard",
+          "position": "Center",
+          "points": 8,
+          "rebounds": 9,
+          "assists": 1,
+          "steals": 0,
+          "blocks": 2,
+          "field_goal_percentage": 60,
+          "three_point_percentage": 0,
+          "free_throw_percentage": 55,
+          "overall": 76
+        }
+      ]
+    },
+    {
+      "team_name": "Brooklyn Nets",
+      "players": [
+        {
+          "name": "Kevin Durant",
+          "position": "Small Forward",
+          "points": 28,
+          "rebounds": 7,
+          "assists": 5,
+          "steals": 1,
+          "blocks": 2,
+          "field_goal_percentage": 52,
+          "three_point_percentage": 42,
+          "free_throw_percentage": 90,
+          "overall": 92
+        },
+        {
+          "name": "Kyrie Irving",
+          "position": "Point Guard",
+          "points": 25,
+          "rebounds": 4,
+          "assists": 6,
+          "steals": 2,
+          "blocks": 0,
+          "field_goal_percentage": 48,
+          "three_point_percentage": 39,
+          "free_throw_percentage": 88,
+          "overall": 88
+        },
+        {
+          "name": "James Harden",
           "position": "Shooting Guard",
-          "saves": 25,
-          "speed": 60,
-          "accuracy": 70,
-          "strength": 75,
-          "overall": 0
+          "points": 23,
+          "rebounds": 6,
+          "assists": 9,
+          "steals": 2,
+          "blocks": 1,
+          "field_goal_percentage": 44,
+          "three_point_percentage": 36,
+          "free_throw_percentage": 86,
+          "overall": 87
         },
         {
-          "name": "Lebron",
-          "position": "Forward",
-          "goals": 10,
+          "name": "Blake Griffin",
+          "position": "Power Forward",
+          "points": 12,
+          "rebounds": 5,
+          "assists": 3,
+          "steals": 1,
+          "blocks": 1,
+          "field_goal_percentage": 49,
+          "three_point_percentage": 34,
+          "free_throw_percentage": 72,
+          "overall": 79
+        },
+        {
+          "name": "Andre Drummond",
+          "position": "Center",
+          "points": 10,
+          "rebounds": 12,
+          "assists": 1,
+          "steals": 1,
+          "blocks": 2,
+          "field_goal_percentage": 58,
+          "three_point_percentage": 0,
+          "free_throw_percentage": 50,
+          "overall": 80
+        }
+      ]
+    },
+    {
+      "team_name": "Golden State Warriors",
+      "players": [
+        {
+          "name": "Stephen Curry",
+          "position": "Point Guard",
+          "points": 30,
+          "rebounds": 5,
+          "assists": 6,
+          "steals": 2,
+          "blocks": 0,
+          "field_goal_percentage": 50,
+          "three_point_percentage": 43,
+          "free_throw_percentage": 92,
+          "overall": 91
+        },
+        {
+          "name": "Klay Thompson",
+          "position": "Shooting Guard",
+          "points": 20,
+          "rebounds": 4,
+          "assists": 3,
+          "steals": 1,
+          "blocks": 0,
+          "field_goal_percentage": 48,
+          "three_point_percentage": 40,
+          "free_throw_percentage": 85,
+          "overall": 85
+        },
+        {
+          "name": "Andrew Wiggins",
+          "position": "Small Forward",
+          "points": 18,
+          "rebounds": 6,
+          "assists": 2,
+          "steals": 1,
+          "blocks": 1,
+          "field_goal_percentage": 47,
+          "three_point_percentage": 35,
+          "free_throw_percentage": 80,
+          "overall": 81
+        },
+        {
+          "name": "Draymond Green",
+          "position": "Power Forward",
+          "points": 10,
+          "rebounds": 8,
+          "assists": 9,
+          "steals": 2,
+          "blocks": 1,
+          "field_goal_percentage": 42,
+          "three_point_percentage": 31,
+          "free_throw_percentage": 75,
+          "overall": 80
+        },
+        {
+          "name": "James Wiseman",
+          "position": "Center",
+          "points": 8,
+          "rebounds": 6,
+          "assists": 1,
+          "steals": 0,
+          "blocks": 2,
+          "field_goal_percentage": 55,
+          "three_point_percentage": 0,
+          "free_throw_percentage": 60,
+          "overall": 75
+        }
+      ]
+    },
+    {
+      "team_name": "Milwaukee Bucks",
+      "players": [
+        {
+          "name": "Giannis Antetokounmpo",
+          "position": "Power Forward",
+          "points": 28,
+          "rebounds": 11,
+          "assists": 6,
+          "steals": 1,
+          "blocks": 2,
+          "field_goal_percentage": 55,
+          "three_point_percentage": 31,
+          "free_throw_percentage": 73,
+          "overall": 90
+        },
+        {
+          "name": "Khris Middleton",
+          "position": "Small Forward",
+          "points": 22,
+          "rebounds": 7,
+          "assists": 5,
+          "steals": 1,
+          "blocks": 0,
+          "field_goal_percentage": 50,
+          "three_point_percentage": 40,
+          "free_throw_percentage": 88,
+          "overall": 84
+        },
+        {
+          "name": "Jrue Holiday",
+          "position": "Point Guard",
+          "points": 18,
+          "rebounds": 4,
           "assists": 8,
-          "speed": 88,
-          "accuracy": 78,
-          "strength": 68,
-          "overall": 0
+          "steals": 2,
+          "blocks": 0,
+          "field_goal_percentage": 48,
+          "three_point_percentage": 35,
+          "free_throw_percentage": 82,
+          "overall": 82
+        },
+        {
+          "name": "Brook Lopez",
+          "position": "Center",
+          "points": 12,
+          "rebounds": 6,
+          "assists": 1,
+          "steals": 1,
+          "blocks": 2,
+          "field_goal_percentage": 52,
+          "three_point_percentage": 34,
+          "free_throw_percentage": 75,
+          "overall": 80
+        },
+        {
+          "name": "Bobby Portis",
+          "position": "Power Forward",
+          "points": 10,
+          "rebounds": 5,
+          "assists": 2,
+          "steals": 1,
+          "blocks": 1,
+          "field_goal_percentage": 47,
+          "three_point_percentage": 32,
+          "free_throw_percentage": 80,
+          "overall": 77
+        }
+      ]
+    },
+    {
+      "team_name": "Miami Heat",
+      "players": [
+        {
+          "name": "Jimmy Butler",
+          "position": "Small Forward",
+          "points": 24,
+          "rebounds": 6,
+          "assists": 8,
+          "steals": 2,
+          "blocks": 1,
+          "field_goal_percentage": 48,
+          "three_point_percentage": 34,
+          "free_throw_percentage": 85,
+          "overall": 88
+        },
+        {
+          "name": "Bam Adebayo",
+          "position": "Center",
+          "points": 18,
+          "rebounds": 10,
+          "assists": 5,
+          "steals": 1,
+          "blocks": 2,
+          "field_goal_percentage": 55,
+          "three_point_percentage": 10,
+          "free_throw_percentage": 75,
+          "overall": 85
+        },
+        {
+          "name": "Kyle Lowry",
+          "position": "Point Guard",
+          "points": 15,
+          "rebounds": 4,
+          "assists": 9,
+          "steals": 2,
+          "blocks": 0,
+          "field_goal_percentage": 43,
+          "three_point_percentage": 36,
+          "free_throw_percentage": 80,
+          "overall": 82
+        },
+        {
+          "name": "Tyler Herro",
+          "position": "Shooting Guard",
+          "points": 14,
+          "rebounds": 3,
+          "assists": 4,
+          "steals": 1,
+          "blocks": 0,
+          "field_goal_percentage": 45,
+          "three_point_percentage": 38,
+          "free_throw_percentage": 78,
+          "overall": 80
+        },
+        {
+          "name": "P.J. Tucker",
+          "position": "Power Forward",
+          "points": 8,
+          "rebounds": 6,
+          "assists": 2,
+          "steals": 1,
+          "blocks": 1,
+          "field_goal_percentage": 42,
+          "three_point_percentage": 36,
+          "free_throw_percentage": 70,
+          "overall": 77
+        }
+      ]
+    },
+    {
+      "team_name": "Phoenix Suns",
+      "players": [
+        {
+          "name": "Devin Booker",
+          "position": "Shooting Guard",
+          "points": 26,
+          "rebounds": 4,
+          "assists": 6,
+          "steals": 1,
+          "blocks": 0,
+          "field_goal_percentage": 49,
+          "three_point_percentage": 38,
+          "free_throw_percentage": 90,
+          "overall": 87
+        },
+        {
+          "name": "Chris Paul",
+          "position": "Point Guard",
+          "points": 18,
+          "rebounds": 4,
+          "assists": 10,
+          "steals": 2,
+          "blocks": 0,
+          "field_goal_percentage": 47,
+          "three_point_percentage": 38,
+          "free_throw_percentage": 88,
+          "overall": 85
+        },
+        {
+          "name": "Deandre Ayton",
+          "position": "Center",
+          "points": 14,
+          "rebounds": 10,
+          "assists": 1,
+          "steals": 1,
+          "blocks": 2,
+          "field_goal_percentage": 60,
+          "three_point_percentage": 0,
+          "free_throw_percentage": 70,
+          "overall": 83
+        },
+        {
+          "name": "Mikal Bridges",
+          "position": "Small Forward",
+          "points": 12,
+          "rebounds": 5,
+          "assists": 3,
+          "steals": 2,
+          "blocks": 1,
+          "field_goal_percentage": 48,
+          "three_point_percentage": 36,
+          "free_throw_percentage": 82,
+          "overall": 80
+        },
+        {
+          "name": "Jae Crowder",
+          "position": "Power Forward",
+          "points": 10,
+          "rebounds": 6,
+          "assists": 2,
+          "steals": 1,
+          "blocks": 1,
+          "field_goal_percentage": 42,
+          "three_point_percentage": 35,
+          "free_throw_percentage": 75,
+          "overall": 77
         }
       ]
     }

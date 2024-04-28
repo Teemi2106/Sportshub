@@ -1,5 +1,6 @@
 import React from "react";
 import { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import newsLetter from "../Database/News.json";
 import "../CSS/news.css";
 
@@ -26,6 +27,7 @@ const News = () => {
           <div key={index} id="newsDiv">
             <img src={news.img} alt="" className="newsImg" />
             <h2>{news.title}</h2>
+            <Link to={news.url}>Read more</Link>
           </div>
         ))}
       </section>

@@ -1,0 +1,336 @@
+{
+  "teams": [
+    {
+      "team_name": "Team USA",
+      "formation": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJXYQFxU-njQKMtmALbUXSnXQf-EDvQNAawQ&s",
+      "players": [
+        {
+          "name": "Jordan Larson",
+          "position": "Outside Hitter",
+          "kills": 15,
+          "blocks": 5,
+          "digs": 10,
+          "assists": 3,
+          "service_aces": 2,
+          "overall": 85
+        },
+        {
+          "name": "Foluke Akinradewo",
+          "position": "Middle Blocker",
+          "kills": 12,
+          "blocks": 8,
+          "digs": 3,
+          "assists": 1,
+          "service_aces": 1,
+          "overall": 82
+        },
+        {
+          "name": "Kelsey Robinson",
+          "position": "Outside Hitter",
+          "kills": 10,
+          "blocks": 2,
+          "digs": 12,
+          "assists": 4,
+          "service_aces": 3,
+          "overall": 80
+        },
+        {
+          "name": "Micha Hancock",
+          "position": "Setter",
+          "kills": 2,
+          "blocks": 1,
+          "digs": 5,
+          "assists": 20,
+          "service_aces": 4,
+          "overall": 78
+        },
+        {
+          "name": "Haleigh Washington",
+          "position": "Middle Blocker",
+          "kills": 10,
+          "blocks": 10,
+          "digs": 2,
+          "assists": 2,
+          "service_aces": 0,
+          "overall": 81
+        }
+      ]
+    },
+    {
+      "team_name": "Team Brazil",
+      "formation": "url//edo",
+      "players": [
+        {
+          "name": "Gabriela Guimarães",
+          "position": "Outside Hitter",
+          "kills": 20,
+          "blocks": 3,
+          "digs": 8,
+          "assists": 2,
+          "service_aces": 1,
+          "overall": 87
+        },
+        {
+          "name": "Ana Carolina da Silva",
+          "position": "Middle Blocker",
+          "kills": 15,
+          "blocks": 10,
+          "digs": 3,
+          "assists": 1,
+          "service_aces": 0,
+          "overall": 85
+        },
+        {
+          "name": "Robertlandy Simón",
+          "position": "Opposite Hitter",
+          "kills": 18,
+          "blocks": 5,
+          "digs": 4,
+          "assists": 3,
+          "service_aces": 2,
+          "overall": 86
+        },
+        {
+          "name": "Fernanda Rodrigues",
+          "position": "Outside Hitter",
+          "kills": 12,
+          "blocks": 2,
+          "digs": 10,
+          "assists": 5,
+          "service_aces": 3,
+          "overall": 83
+        },
+        {
+          "name": "William Arjona",
+          "position": "Setter",
+          "kills": 3,
+          "blocks": 1,
+          "digs": 5,
+          "assists": 25,
+          "service_aces": 4,
+          "overall": 79
+        }
+      ]
+    },
+    {
+      "team_name": "Team Russia",
+      "players": [
+        {
+          "name": "Nataliya Goncharova",
+          "position": "Opposite Hitter",
+          "kills": 22,
+          "blocks": 4,
+          "digs": 6,
+          "assists": 3,
+          "service_aces": 2,
+          "overall": 88
+        },
+        {
+          "name": "Irina Fetisova",
+          "position": "Middle Blocker",
+          "kills": 18,
+          "blocks": 12,
+          "digs": 2,
+          "assists": 1,
+          "service_aces": 0,
+          "overall": 86
+        },
+        {
+          "name": "Tatiana Kosheleva",
+          "position": "Outside Hitter",
+          "kills": 16,
+          "blocks": 3,
+          "digs": 8,
+          "assists": 4,
+          "service_aces": 3,
+          "overall": 85
+        },
+        {
+          "name": "Evgeniya Startseva",
+          "position": "Setter",
+          "kills": 2,
+          "blocks": 1,
+          "digs": 5,
+          "assists": 22,
+          "service_aces": 3,
+          "overall": 81
+        },
+        {
+          "name": "Anna Kotikova",
+          "position": "Libero",
+          "kills": 1,
+          "blocks": 0,
+          "digs": 15,
+          "assists": 2,
+          "service_aces": 1,
+          "overall": 80
+        }
+      ]
+    },
+    {
+      "team_name": "Team Italy",
+      "players": [
+        {
+          "name": "Paola Egonu",
+          "position": "Opposite Hitter",
+          "kills": 25,
+          "blocks": 3,
+          "digs": 5,
+          "assists": 2,
+          "service_aces": 2,
+          "overall": 89
+        },
+        {
+          "name": "Anna Danesi",
+          "position": "Middle Blocker",
+          "kills": 20,
+          "blocks": 10,
+          "digs": 3,
+          "assists": 1,
+          "service_aces": 0,
+          "overall": 87
+        },
+        {
+          "name": "Miriam Sylla",
+          "position": "Outside Hitter",
+          "kills": 18,
+          "blocks": 4,
+          "digs": 6,
+          "assists": 3,
+          "service_aces": 2,
+          "overall": 86
+        },
+        {
+          "name": "Ofelia Malinov",
+          "position": "Setter",
+          "kills": 2,
+          "blocks": 1,
+          "digs": 6,
+          "assists": 24,
+          "service_aces": 3,
+          "overall": 82
+        },
+        {
+          "name": "Monica De Gennaro",
+          "position": "Libero",
+          "kills": 1,
+          "blocks": 0,
+          "digs": 15,
+          "assists": 2,
+          "service_aces": 1,
+          "overall": 81
+        }
+      ]
+    },
+    {
+      "team_name": "Team China",
+      "players": [
+        {
+          "name": "Zhu Ting",
+          "position": "Opposite Hitter",
+          "kills": 23,
+          "blocks": 4,
+          "digs": 6,
+          "assists": 3,
+          "service_aces": 2,
+          "overall": 88
+        },
+        {
+          "name": "Yuan Xinyue",
+          "position": "Middle Blocker",
+          "kills": 20,
+          "blocks": 12,
+          "digs": 2,
+          "assists": 1,
+          "service_aces": 0,
+          "overall": 86
+        },
+        {
+          "name": "Li Yingying",
+          "position": "Outside Hitter",
+          "kills": 18,
+          "blocks": 3,
+          "digs": 8,
+          "assists": 4,
+          "service_aces": 3,
+          "overall": 85
+        },
+        {
+          "name": "Ding Xia",
+          "position": "Setter",
+          "kills": 2,
+          "blocks": 1,
+          "digs": 5,
+          "assists": 23,
+          "service_aces": 3,
+          "overall": 81
+        },
+        {
+          "name": "Lin Li",
+          "position": "Libero",
+          "kills": 1,
+          "blocks": 0,
+          "digs": 16,
+          "assists": 2,
+          "service_aces": 1,
+          "overall": 80
+        }
+      ]
+    },
+    {
+      "team_name": "Team Japan",
+      "players": [
+        {
+          "name": "Sarina Koga",
+          "position": "Opposite Hitter",
+          "kills": 22,
+          "blocks": 3,
+          "digs": 7,
+          "assists": 3,
+          "service_aces": 2,
+          "overall": 87
+        },
+        {
+          "name": "Haruyo Shimamura",
+          "position": "Middle Blocker",
+          "kills": 18,
+          "blocks": 10,
+          "digs": 3,
+          "assists": 1,
+          "service_aces": 0,
+          "overall": 85
+        },
+        {
+          "name": "Yuki Ishii",
+          "position": "Outside Hitter",
+          "kills": 16,
+          "blocks": 4,
+          "digs": 8,
+          "assists": 4,
+          "service_aces": 3,
+          "overall": 84
+        },
+        {
+          "name": "Miya Sato",
+          "position": "Setter",
+          "kills": 2,
+          "blocks": 1,
+          "digs": 6,
+          "assists": 22,
+          "service_aces": 3,
+          "overall": 80
+        },
+        {
+          "name": "Kotoki Zayasu",
+          "position": "Libero",
+          "kills": 1,
+          "blocks": 0,
+          "digs": 17,
+          "assists": 2,
+          "service_aces": 1,
+          "overall": 79
+        }
+      ]
+    }
+  ]
+}
